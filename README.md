@@ -1,4 +1,4 @@
-Based on https://gist.github.com/fwielstra/1025038
+Simple and easy way to start express apis - Based on https://gist.github.com/fwielstra/1025038
 Upgraded for Express 4
 
 SETUP
